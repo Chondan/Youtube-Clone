@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.app {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	border: 1px solid black;
+	height: 100vh;
+}
+.video-part-container {
+	width: 100%;
+	border: 1px solid blue;
+	display: flex;
+	justify-content: center;
+	height: 90%;
+}
+
+/* ----- SCROLL BAR CUSTOMIZE ----- */
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  /* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+  /* Handle */
+::-webkit-scrollbar-thumb {
+background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #555; 
+}
+
+@media screen and (max-width: 700px) {
+	.app {
+		height: auto;
+	}
+	.video-part-container {
+		flex-direction: column;
+	}
+}
+

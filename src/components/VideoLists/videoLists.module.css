@@ -1,0 +1,98 @@
+.video-lists-container {
+	width: 30%;
+	border: 1px solid green;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.video-lists {
+	height: 100%;
+	border: 1px solid black;
+	margin: 10px;
+	overflow: auto;
+	overflow-x: hidden;
+}
+.video-list {
+	display: flex;
+	margin: 2px;
+	border: 1px solid black;
+	height: 80px;
+	cursor: pointer;
+	background-color: white;
+	border-radius: 2px;
+}
+.video-list:hover {
+	filter: brightness(0.9);
+	transform: scale(1.03);
+}
+.video-list-image-container {
+	width: 30%;
+	height: 100%;
+	border: 1px solid red;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.video-list-image-container img {
+	height: 100%;
+	width: 100%;
+	border-radius: 0 0 2px 2px;
+}
+.video-list-detail-container {
+	width: 70%;
+	border: 1px solid blue;
+	padding: 2px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.video-list-info {
+	font-size: small;
+	/*white-space: nowrap;*/
+	text-overflow: ellipsis;
+	overflow: hidden;
+	margin-left: 5px;
+}
+.loading-element-container {
+	border: 1px solid red;
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+}
+.loading-element {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	margin: 5px;
+	background-color: black;
+}
+.loading-element:first-child {
+	animation: loading 500ms infinite;
+}
+.loading-element:nth-child(2) {
+	animation: loading 500ms infinite;
+	animation-delay: 100ms;
+}
+.loading-element:nth-child(3) {
+	animation: loading 500ms infinite;
+	animation-delay: 200ms;
+}
+@keyframes loading {
+	to { transform: scale(0.5); }
+}
+
+@media screen and (max-width: 700px) {
+	.video-lists-container {
+		width: 100%;
+		height: auto;
+	}
+	.video-lists {
+		overflow: hidden;
+		height: auto;
+	}
+	.video-list {
+		height: 100px;
+		margin-top: 4px;
+	}
+}
