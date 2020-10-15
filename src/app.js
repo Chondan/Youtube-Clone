@@ -14,7 +14,7 @@ function App() {
 	const [selectedVideo, setSelectedVideo] = useState(null);
 	// searching
 	useEffect(() => {
-		// MOCKUP DATA
+		// ------ MOCKUP DATA
 		const sets = 40 / 5;
 		let newData = [];
 		Array(sets).fill(items).forEach(set => {
@@ -23,7 +23,7 @@ function App() {
 		setData(newData);
 		setSelectedVideo(newData[0]);
 
-		// FETCHING DATA
+		// ------ FETCHING DATA
 		// youtube.get("search", {
 		// 	params: {
 		// 		q: searchValue,

@@ -1,10 +1,7 @@
 import React, { useRef, useEffect } from 'react';
 import styles from './videoLists.module.css';
 import { v4 as uuidv4 } from 'uuid';
-
-// function PublisedTimeCalculation() {
-// 	return "10 years ago";
-// }
+import { publishedTimeCalculator } from '../../util/methods';
 
 function List({ item, methods }) {
 	const { videoId } = item.id;
@@ -26,7 +23,7 @@ function List({ item, methods }) {
 			<div className={styles["video-list-detail-container"]}>
 				<strong className={styles["video-list-info"]}>{title}</strong>
 				<div className={styles["video-list-info"]}>{channelTitle}</div>
-				<div className={styles["video-list-info"]}>{publishTime}</div>
+				<div className={styles["video-list-info"]}>{publishedTimeCalculator(publishTime)}</div>
 			</div>
 		</div>
 	);
@@ -48,8 +45,11 @@ function VideoLists({ handleMaxResult, handleSelectedVideo, items }) {
 		function handleScroll(e) {
 			const { height } = this.getBoundingClientRect();
 			const { scrollHeight, scrollTop } = e.target;
-			if (scrollTop > scrollHeight - height || scrollHeight === 0) {
-				setTimeout(handleMaxResult, 1000);
+			if (scrollTop > scrollHeight - height - 1 || scrollHeight === 0) {
+				setTimeout(() => {
+					this.scrollTop = scrollTop - 50;
+					handleMaxResult();
+				}, 1000);
 			}
 		}
 		function handleDocumentScroll() {

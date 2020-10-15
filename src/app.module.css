@@ -7,12 +7,12 @@
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	height: 100vh;
 }
 .video-part-container {
 	width: 100%;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 	display: flex;
 	justify-content: center;
 	height: 90%;
