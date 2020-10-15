@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './videoPlayer.module.css';
+import { publishedTimeCalculator } from '../../util/methods';
 
 function VideoPlayer({ selectedVideo }) {
 	if (!selectedVideo) {
@@ -15,7 +16,7 @@ function VideoPlayer({ selectedVideo }) {
 		<div className={styles["video-player-container"]}>
 			<div className={styles["video-player"]}>
 				<iframe 
-					frameborder={0} 
+					frameBorder={0} 
 					title={title} 
 					style={{ width: "100%", height: "100%" }} 
 					src={videoSrc} 
@@ -25,7 +26,7 @@ function VideoPlayer({ selectedVideo }) {
 			<div className={styles["video-details"]} >
 				<strong>{title}</strong>
 				<div>{channelTitle}</div>
-				<div>{publishTime}</div>
+				<div>{new Date(publishTime).toDateString()}</div>
 				<div>{description}</div>
 			</div>
 		</div>

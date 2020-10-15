@@ -1,13 +1,13 @@
 .video-lists-container {
 	width: 30%;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 }
 .video-lists {
 	height: 100%;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 10px;
 	overflow: auto;
 	overflow-x: hidden;
@@ -15,7 +15,7 @@
 .video-list {
 	display: flex;
 	margin: 2px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	height: 80px;
 	cursor: pointer;
 	background-color: white;
@@ -28,7 +28,7 @@
 .video-list-image-container {
 	width: 30%;
 	height: 100%;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -40,7 +40,7 @@
 }
 .video-list-detail-container {
 	width: 70%;
-	border: 1px solid blue;
+	border: 1px solid #ddd;
 	padding: 2px;
 	overflow: hidden;
 	display: flex;
@@ -55,7 +55,7 @@
 	margin-left: 5px;
 }
 .loading-element-container {
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	padding: 5px;
 	display: flex;
 	justify-content: center;
