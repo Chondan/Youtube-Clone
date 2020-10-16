@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './videoPlayer.module.css';
-import { publishedTimeCalculator } from '../../util/methods';
+// import { publishedTimeCalculator } from '../../util/methods';
 
 function VideoPlayer({ selectedVideo }) {
 	if (!selectedVideo) {

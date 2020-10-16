@@ -1,0 +1,1706 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "fJuVVbZ6uTgLXBv2hg3keJLq60Y",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "TH",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-kmJUu8U2RRpe3xz_c-x4a7vUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TlB_eWDSMt4"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-21T23:57:12Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+        "description": "Node.js Tutorial for Beginners: Learn Node in 1 Hour Get the complete Node course: http://bit.ly/2NfkpOC Subscribe for more tutorials like this: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TlB_eWDSMt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TlB_eWDSMt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TlB_eWDSMt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-21T23:57:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d7sLv4hOYAXPyRqxrx0wiwjWtaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q0hYekuh9p4"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-03T09:03:04Z",
+        "channelId": "UCkgnZDuS9fM951TpyBTkNPg",
+        "title": "NodeJS Dev : เริ่มต้นเขียน NodeJS ตอนที่ #1 (มันทำอะไรได้บ้าง)",
+        "description": "หากท่านอยากสนับสนุนเรา CMDev Channel ท่านสามารถช่วยเราได้ เพียงแค่แวะเข้าไปชมหลักสูตรของเราที่ www.codemobiles.com ซึ่งหลักสูตรเนื้อหาเข้มข้นมากมาย ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0hYekuh9p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0hYekuh9p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0hYekuh9p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CMDev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-03T09:03:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aWo8OGEnKH00zdfbLQTUnehHNww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBNz5xF-Kx4"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-06T20:10:58Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js Crash Course",
+        "description": "In this crash course we will explore Node.js fundamentals including modules such as path, url, fs, events and we will create an HTTP server from scratch without ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBNz5xF-Kx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBNz5xF-Kx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBNz5xF-Kx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-06T20:10:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YLVfPAhFTURbIyp3axBKSHpPjtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ENrzD9HAZK4"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-21T17:16:56Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Node.js Ultimate Beginner’s Guide in 7 Easy Steps",
+        "description": "Why learn Node.js in 2020? Master the fundamentals of Node in 7 easy steps, then build a fullstack web app and deploy it to a cloud server. Follow along in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENrzD9HAZK4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENrzD9HAZK4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENrzD9HAZK4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-21T17:16:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fjrik9Y-Ww1boWM_sJ8dqeVwbGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-hVHvBG30MA"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-16T05:42:22Z",
+        "channelId": "UCeKE6wQHTt5JpS9_RsH4hrg",
+        "title": "สอน NodeJS ทำระบบ Basic Login System [2020]",
+        "description": "Follow & Contacts FB : https://www.facebook.com/patiphanphengpao FB (Fanpage) : https://www.facebook.com/patiphannn/ IG ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hVHvBG30MA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hVHvBG30MA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hVHvBG30MA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Patiphan Phengpao",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-16T05:42:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tflOS2ajwHunZ9nf1tCazeyoCkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZumPDIzZN-M"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-17T14:47:20Z",
+        "channelId": "UCZ1xUPnSDPRtz76nGNBcaIA",
+        "title": "Node js ภายใน 4 นาที",
+        "description": "วันนี้เราจะมาเขียน Node js ด้วยความรวดเร็วกัน ในปัจจุบันภาษาที่นิยมเขียนที่สุดตัวนึงเลยคือ javascript โดยภาษานี้มักจะเขียนคู่กับภาษา html ไว้ run web บน browser แต่ทว่าก็มี ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZumPDIzZN-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZumPDIzZN-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZumPDIzZN-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Techcast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-17T14:47:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ccoTBvAj4tLupTIr2XBecKYZOic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RLtyhwFtXQA"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-04T15:17:49Z",
+        "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+        "title": "Learn Node.js - Full Tutorial for Beginners",
+        "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Learn all about Node.js in the full ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLtyhwFtXQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLtyhwFtXQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLtyhwFtXQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "freeCodeCamp.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-04T15:17:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a8PNeuqinrRO0fLCmInMPtQkhn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yEHCfRWz-EI"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-20T15:57:01Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "What is Node js? | Why it is so Famous?",
+        "description": "Node Js is the runtime environment for JavaScript. In this video will talk about What is Node JS and Why it is so famous? Will touch Javascript, Express, Angular, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Telusko",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-20T15:57:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Y8z0y3mlrPEeqBIuXWzExQoWU0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uVwtVBpw7RQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-23T23:51:31Z",
+        "channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+        "title": "What is Node js?",
+        "description": "What is Node js? This short video explains it in 3 minutes. Node js tutorial for beginners: https://youtu.be/TlB_eWDSMt4 Subscribe for more videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uVwtVBpw7RQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming with Mosh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-23T23:51:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SUqiiagTftNvyAtCh6YQH8aJZ8w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pU9Q6oiQNd0"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-12T18:30:02Z",
+        "channelId": "UCVTlvUkGslCV_h-nSAId8Sw",
+        "title": "What is Node.js Exactly? - a beginners introduction to Nodejs",
+        "description": "What exactly is node.js? Is it a command-line tool, a language, the same thing as Ruby on Rails, a cure for cancer? If you're new to web development, it can be a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pU9Q6oiQNd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pU9Q6oiQNd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pU9Q6oiQNd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LearnCode.academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-12T18:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wQ1hYXSw8glY7xYkD2PNnO7cQ8Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h_t7ZT-nbIQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-17T09:15:00Z",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "NodeJS 가 뭐야? 쉽고 짧게 3분 설명! (NodeJS Explained in 3 min)",
+        "description": "프로그래밍 #코딩 #프로그래밍초보 한글 번역 ON 그래서 그 유명한 NodeJS 가 뭐야? 유튜브 클론 코딩 수업의 맛보기 입니다 :) .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h_t7ZT-nbIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h_t7ZT-nbIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h_t7ZT-nbIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "노마드 코더 Nomad Coders",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-17T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yRctUvNOcTGWwsHSwXjRTyAS9ok",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLEE74DyIkwEkWPh2S8vK-Hca1bMt5ER5Y"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-26T07:18:14Z",
+        "channelId": "UCB6eDEzpqpiaZnDMzoje57Q",
+        "title": "สอน NodeJS สำหรับมือใหม่หัดขับ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/74QKiAA3oV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/74QKiAA3oV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/74QKiAA3oV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kong Ruksiam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-26T07:18:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qqywgmG52eclzWLqvMdFgAoMwyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JnvKXcSI7yk"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-24T08:30:00Z",
+        "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+        "title": "Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka",
+        "description": "Node.js Certification Training: https://www.edureka.co/nodejs-certification-training ** This Edureka Node.js Full Course video will help you in learn Node.js along ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JnvKXcSI7yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JnvKXcSI7yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JnvKXcSI7yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "edureka!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-24T08:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ulgzql18SmiA9I4bHLuNOShpwSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_1xa8Bsho6A"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-15T13:17:22Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Vanilla Node.js REST API | No Framework",
+        "description": "Let's create a REST API using Node.js only, without Express Code: https://github.com/bradtraversy/vanilla-node-rest-api Support The Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1xa8Bsho6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1xa8Bsho6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1xa8Bsho6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-15T13:17:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e3jKwRKFetTUdQHABjcBSccYc_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wxbQP1LMZsw"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-30T13:42:10Z",
+        "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+        "title": "2.1 Server-side with Node.js - Working with Data and APIs in JavaScript",
+        "description": "https://github.com/CodingTrain/Intro-to-Data-APIs-JS Welcome to Module #2! In the previous module, I focused on client-side JavaScript. This video covers the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxbQP1LMZsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxbQP1LMZsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxbQP1LMZsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Coding Train",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-30T13:42:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p13EKmh_w8gDGIAgMJoJmDd7CJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UCd6LorxpkY"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-25T05:05:18Z",
+        "channelId": "UCYt1sfh5464XaDBH0oH_o7Q",
+        "title": "When and when not to use Node.js - Node.js Basics [06] - Java Brains",
+        "description": "Have you seen the new Java Brains? Check out www.javabrains.io now for awesome courses and content! Understand the core problems that Node.js was ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UCd6LorxpkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UCd6LorxpkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UCd6LorxpkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Java Brains",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-25T05:05:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BqegE_If-S-CN9S6SeTKyklA-jA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-15T07:22:00Z",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "title": "Node.js Crash Course Tutorial",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zb3Qk8SG5Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Net Ninja",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-15T07:22:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kj-u34WQfjjMmWwhqaR1obHeeI0",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-19T15:50:28Z",
+        "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+        "title": "Node JS Tutorial for Beginners",
+        "description": "Yo ninjas, in this Node JS tutorial series for beginners, we'll be walking step by step through what Node JS is, and how it all works. We'll also be creating a Node ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-7RQ46RgxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-7RQ46RgxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-7RQ46RgxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Net Ninja",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-19T15:50:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LIvdHhyTx3JC7eszVwSzboxP1BE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VShtPwEkDD0"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-06T15:13:28Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Your First Node.js Web Server",
+        "description": "In this video I am going to walk you through all the steps necessary to create your very first Node.js web server. We will start at the very beginning with installing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VShtPwEkDD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VShtPwEkDD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VShtPwEkDD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-06T15:13:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y3pW86QUX4BZzroMDa-EUw6wNh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qZ5xzkEdkhg"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-22T09:28:21Z",
+        "channelId": "UCMtlICYxr6Dz_PG9_SVqRYQ",
+        "title": "Node.js",
+        "description": "Знакомимся с Node.js: история создания, простейшие скрипты, основные возможности. Углубляемся в теорию: модульная система CommonJS, Streams, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZ5xzkEdkhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZ5xzkEdkhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZ5xzkEdkhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Фронтенд",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-22T09:28:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hWjRH3ct8OFXI6App9qrL8qCt4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PnhmeFakkXg"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-02T09:15:01Z",
+        "channelId": "UCUpJs89fSBXNolQGOYKn0YQ",
+        "title": "무엇을 언제 써야할까? Node JS vs Django!",
+        "description": "Node JS를 배워야할지 Django를 배워야할지 빌드할때 무엇을 써야하는지 질문이 많이 들어와서 촬영해보았습니다. Node JS냐 Django냐! 당신의 선택은!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PnhmeFakkXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PnhmeFakkXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PnhmeFakkXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "노마드 코더 Nomad Coders",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-02T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LJ2LjSNgCAizUvchR3IFrXoxHAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k2GWnDb5zoQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-13T09:09:50Z",
+        "channelId": "UCSLrpBAzr-ROVGHQ5EmxnUg",
+        "title": "(Ep.2-2) Node.js를 쓰는 이유 (웹서버 만들기)",
+        "description": "Node.js 만의 특징이 있습니다. 노드는 이벤트를 적극 활용하여 처리가 빠른 것 부터 실행하기 때문에 채팅, SNS 웹서버를 만들 때 적극 선호됩니다. 물론 다른 언어들 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2GWnDb5zoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2GWnDb5zoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2GWnDb5zoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "코딩애플",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-13T09:09:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AhQljwtP4IHgmeqdFMjMxeGYxuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U8XF6AFGqlc"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-18T20:37:57Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js Tutorial For Absolute Beginners",
+        "description": "Updated Version - https://www.youtube.com/watch?v=fBNz5xF-Kx4 This is an introduction to Node.js for beginners. We will talk about... What Node.js Is Installing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8XF6AFGqlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8XF6AFGqlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8XF6AFGqlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-18T20:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_DOUoNwCEXo7MbuIsETLWadPpDI",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCQPYJluYC_sn_Qz_XE-YbTQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-05T16:21:00Z",
+        "channelId": "UCQPYJluYC_sn_Qz_XE-YbTQ",
+        "title": "node.js",
+        "description": "Node.js Foundation is a collaborative open source project dedicated to building and supporting the Node.js platform and other related modules. Node.js is used ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzGtfRDLtjfdHYAVH-yyrVI1zdh_Hz8Zl_UtLz9vQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzGtfRDLtjfdHYAVH-yyrVI1zdh_Hz8Zl_UtLz9vQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJzGtfRDLtjfdHYAVH-yyrVI1zdh_Hz8Zl_UtLz9vQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "node.js",
+        "liveBroadcastContent": "live",
+        "publishTime": "2015-12-05T16:21:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vbvd7B2B-c7cucg7-sYfcqreo_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2gQG4cFjahw"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-29T15:43:17Z",
+        "channelId": "UCEKI_F16hUtBHcw9tBtr24Q",
+        "title": "What is Node.JS and its Pros and Cons",
+        "description": "Node.JS is a popular JavaScript runtime environment. Check its advantages and disadvantages. Learn more about AltexSoft: https://www.altexsoft.com Follow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gQG4cFjahw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gQG4cFjahw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gQG4cFjahw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AltexSoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-29T15:43:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gGTXS-hvDAhn6RfsVl7dbk1bk1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M3BM9TB-8yA"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-06T11:52:50Z",
+        "channelId": "UCzoVCacndDCfGDf41P-z0iA",
+        "title": "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU",
+        "description": "See also https://github.com/ry/deno JSConf EU is coming back in 2019 https://2019.jsconf.eu/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3BM9TB-8yA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3BM9TB-8yA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3BM9TB-8yA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JSConf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-06T11:52:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TDhP7F0ihN7cQ7o2JXolXw7EmzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vYekSMBCCiM"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-20T14:00:09Z",
+        "channelId": "UCFuIUoyHB12qpYa8Jpxoxow",
+        "title": "Node.js // Dicionário do Programador",
+        "description": "HOSTGATOR → https://codft.me/HGvYekSMBCCiM Nesse episódio vamos abordar o Node.js, esse ambiente para execução do códigos JavaScript, que foi o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vYekSMBCCiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vYekSMBCCiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vYekSMBCCiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Código Fonte TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-20T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZQVRRozNXxRcce3lVq_hRJKcg0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3992zaPx8c"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-11T18:35:12Z",
+        "channelId": "UCSSAUgEJcooorKS9Ty4uoPA",
+        "title": "Nodejs Dersleri - Nodejs Nedir ve Hangi Amaçla Kullanılır ?",
+        "description": "Nodejs derslerimizin ilkinde Nodejs nedir, hangi amaçla kullanılır ve nodejs'in avantajları nelerdir, öğrenelim ? Nodejs için gereken modern javascipt kullanımını ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3992zaPx8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3992zaPx8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3992zaPx8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sadık Turan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-11T18:35:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d1-e82BDQtzglFdv0gRodaTEjVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qQwcCS8K_K0"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-22T13:21:53Z",
+        "channelId": "UCeObZv89Stb2xLtjLJ0De3Q",
+        "title": "Всё про Node.js / От 0 до 2,5к долларов за год / Интервью с Backend JS Developer",
+        "description": "Долгожданный Node.js в студии. Встречайте Егора Малькевича, Backend JavaScript разработчика! В интервью Егор рассказал как он вошел в IT и уже ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQwcCS8K_K0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQwcCS8K_K0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQwcCS8K_K0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "АйТиБорода",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-22T13:21:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVksEgEpAt-16wvvzMtMbCLpo7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MXCTQKR1OLo"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-23T15:41:32Z",
+        "channelId": "UCIIt69f5D44s2cdb9vXQNzA",
+        "title": "Что такое Node.js?",
+        "description": "Записывайтесь и за 4,5 месяца вы станете востребованным IT-специалистом со знанием топовых технологий 2019 года и 3 крутыми проектами в ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MXCTQKR1OLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MXCTQKR1OLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MXCTQKR1OLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "loftblog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-23T15:41:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TaZQAL60KS7yT6mvhgS1V-UNBWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DiXbJL3iWVs"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-08T18:22:50Z",
+        "channelId": "UCSfwM5u0Kce6Cce8_S72olg",
+        "title": "Node.js: Iniciando da teoria à prática | Masterclass #11",
+        "description": "Fala Dev !! Mayk Brito na área! O que acha de hoje estudarmos sobre o Node.js? O que é ele? Para que serve? Como funciona? Estudaremos um pouco de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DiXbJL3iWVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DiXbJL3iWVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DiXbJL3iWVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rocketseat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-08T18:22:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2G4ny0h0TmCAZjiuJcJSwOzax-w",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-10T02:57:37Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Node JS Tutorial for Beginners",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEHCfRWz-EI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Telusko",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-10T02:57:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T5cEjQeMhJeTWL7ZhuuMfCrXGbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SBvmnHTQIPY"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-19T13:54:30Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js App From Scratch | Express, MongoDB &amp; Google OAuth",
+        "description": "This is a full application build of the StoryBooks app which uses Node.js, Express, MongoDB, Passport with a Google OAuth strategy and more. Full Code: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SBvmnHTQIPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SBvmnHTQIPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SBvmnHTQIPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-19T13:54:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BEfSr8UGyUb1AFCrbow4ESEImHU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3aGSqasVPsI"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-16T15:00:01Z",
+        "channelId": "UCg8ss4xW9jASrqWGP30jXiw",
+        "title": "Node JS - Быстрый Курс за 1 час (Все Включено!)",
+        "description": "Node JS За 1 час. Вся теория включена в один ролик! Мой Курс Продвинутый JavaScript: https://clc.to/senior Мои Udemy Курсы: Angular 9: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aGSqasVPsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aGSqasVPsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aGSqasVPsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Владилен Минин",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-16T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vdt--o11Vd8xooTVGfMghoY5XIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BhvLIzVL8_o"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-22T06:48:02Z",
+        "channelId": "UCX9NJ471o7Wie1DQe94RVIg",
+        "title": "Nodejs Curso Desde Cero, para principiantes",
+        "description": "Este curso de Nodejs, es una introducción practica para Desarrolladores Web, que tienen como objetivo crear aplicaciones Backend, utilizando el lenguaje que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BhvLIzVL8_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BhvLIzVL8_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BhvLIzVL8_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fazt",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-22T06:48:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OTd5AMJUfWArh3do7UQ5VomQ1EY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nfrVPzDJZQc"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-21T16:23:24Z",
+        "channelId": "UCkqOofjb7nl6V8vXrIbGtiQ",
+        "title": "O que é Node.js? (Entenda de uma vez por todas)",
+        "description": "Será que dominar a linguagem JavaScript não é o que está faltando para você trabalhar naquele lugar que sempre sonhou? Uma coisa eu posso garantir, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nfrVPzDJZQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nfrVPzDJZQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nfrVPzDJZQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rodrigo Branas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-21T16:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TpbJTTTRFLQSOJbUBvpaFHsTSE0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dXjKh66BR2U"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-24T16:41:29Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "A Guide to Web Scraping with Node.js",
+        "description": "Learn how to build a web scraper ⛏️ with NodeJS using two distinct strategies, including (1) a metatag link preview generator and (2) a fully-interactive bot for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXjKh66BR2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXjKh66BR2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXjKh66BR2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-24T16:41:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e0-rhQw1wXsxLq5mASeE7b_zOw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pyM6u3aVT1s"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-13T22:11:54Z",
+        "channelId": "UCTSVfbCKN3nZbogPtOCHcMg",
+        "title": "Почему Node.js такая быстрая, если тред всего один?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pyM6u3aVT1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pyM6u3aVT1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pyM6u3aVT1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "devschacht",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-13T22:11:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xWkgubEbDARxz6PsnbuN2WrxIyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "heiMGR5u6B8"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-29T11:48:19Z",
+        "channelId": "UCh84012dEUE076wM2CVFN9A",
+        "title": "NÃO FAÇA A CERTIFICAÇÃO DE NODE.JS... dizem os leigos",
+        "description": "Resolvi contar como foi minha experiência em tirar a certificação de Node.js. Agrupei todas as principais dificuldades, possíveis dúvidas e claro dicas chaves ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heiMGR5u6B8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heiMGR5u6B8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heiMGR5u6B8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Erick Wendel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-29T11:48:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TQAqgQCyRJRl6ykBg132vu92cko",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLmY5AEiqDWwBHJ3i_8MDSszXXRTcFdkSu"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-15T13:57:43Z",
+        "channelId": "UC5ClMRHFl8o_MAaO4w7ZYug",
+        "title": "Mini curso de Node.js",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jqrKQEJ6DpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jqrKQEJ6DpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jqrKQEJ6DpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Celke",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-15T13:57:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AX-wjYzPRi7Mkm78BcCVoOm2zFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZVznzY7EjuY"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-05T21:52:36Z",
+        "channelId": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+        "title": "🔴 Build a Zoom Clone with Node JS for Beginners",
+        "description": "FREE JavaScript Training ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZVznzY7EjuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZVznzY7EjuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZVznzY7EjuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clever Programmer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-05T21:52:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xbOzJND9i25-pxrKM0MBa4TcxHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GKR6uSvEj8w"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-12T15:06:22Z",
+        "channelId": "UCo7EHzKF2zDFWszw7Dg4mPw",
+        "title": "O que é Node JS? #HipstersPontoTube",
+        "description": "Neste episódio do Hipsters.tube, Mario Souto e Paulo Silveira conversam sobre o Node .JS, eles explicam o que essa plataforma tão utilizada no universo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKR6uSvEj8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKR6uSvEj8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKR6uSvEj8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alura Cursos Online",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-12T15:06:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ozl8-8V97bSUpb4_J_tM72PjIZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_xL4oil0gQo"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-16T22:11:20Z",
+        "channelId": "UCtoo4_P6ilCj7jwa4FmA5lQ",
+        "title": "¿QUE SE PUEDE HACER CON NODEJS? - ANALIZANDO TECNOLOGÍAS",
+        "description": "Te gustaría aprender Node JS? En este video vamos a hablar de Node JS, aunque no es un Curso de Node Js APRENDERAS TODO SOBRE NODE JS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_xL4oil0gQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_xL4oil0gQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_xL4oil0gQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Soy Dalto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-16T22:11:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0b3x_kdmMsXd1Uzv4beSJoJDNTg",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-20T20:32:01Z",
+        "channelId": "UC_issB-37g9lwfAA37fy2Tg",
+        "title": "Curso de Node.js",
+        "description": "Curso de Node.JS - O que é Node.JS, está é a primeira aula do nosso novo curso de Node.js, nesta aula você vai entender o que é esta tecnologia derivada do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LLqq6FemMNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LLqq6FemMNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LLqq6FemMNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Victor Lima - Guia do Programador",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-20T20:32:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "44tCtAEKRexnXVjOEWQf7NQuA-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fcvgVfo2GAg"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-15T11:52:43Z",
+        "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+        "title": "NodeJS vs PHP | Which is best for beginners",
+        "description": "NodeJS and PHP can be a point of confusion for a lot of beginners in web development. Coming to backend development, it's ok to find yourself in a confusing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fcvgVfo2GAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fcvgVfo2GAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fcvgVfo2GAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hitesh Choudhary",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-15T11:52:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dd2_R4fzHhFwRebvghj5xw4Y_CA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLS1QulWo1RIb8IwHYfah5pxGU5jgNiEbK"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-31T22:17:55Z",
+        "channelId": "UCs6nmQViDpUw0nuIx9c_WvA",
+        "title": "Node.js Tutorial for Beginners",
+        "description": "Node.js Tutorial for beginners - Learn Node.js framework in simple and easy steps starting from basic to advanced concepts with examples including ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spPtAEmwys4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spPtAEmwys4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spPtAEmwys4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ProgrammingKnowledge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-31T22:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "44JdTupad-XVk6Kleoz6emNRjz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gq9uGdZCKxI"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-26T16:42:07Z",
+        "channelId": "UC_K9HIHtjiSQjRqATGumtWA",
+        "title": "Primeiros passos com Node.js - Parte #1",
+        "description": "Bem-vindos a nossa série de vídeos sobre Node.js! A Umbler é uma solução projetada para facilitar o trabalho de quem desenvolve para a web. Além de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gq9uGdZCKxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gq9uGdZCKxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gq9uGdZCKxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Umbler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-26T16:42:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DIjf5-qm6q0FG8c_jYe1PSM893g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U7GjS3FuSkA"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-29T13:43:43Z",
+        "channelId": "UCSfwM5u0Kce6Cce8_S72olg",
+        "title": "SQL no Node.js com Knex.js | Masterclass #13",
+        "description": "Fala Dev Mayk Brito na área Que tal dar um início definitivo nessa Query builder tão usada no Node.js? Se você não quer mais escrever SQL na unha e quer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7GjS3FuSkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7GjS3FuSkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7GjS3FuSkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rocketseat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-29T13:43:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Bwxa57l7dMo3jRxcExtJDL2ZOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Vl8a3zYjiw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-14T14:58:57Z",
+        "channelId": "UCSJbGtTlrDami-tDGPUV9-w",
+        "title": "What is Deno &amp; Will it replace Node.js?",
+        "description": "DenoJS is there to replace NodeJS. Or, at least, it has the goal to do so and to fix NodeJS' biggest flaws. It's by the same creator (Ryan Dahl) and it comes with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Vl8a3zYjiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Vl8a3zYjiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Vl8a3zYjiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Academind",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-14T14:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YnOkQf_ujdhu3M6rJTqiRKPGvj4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oc71YSSA8Tk"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-11T23:34:19Z",
+        "channelId": "UCrdgeUeCll2QKmqmihIgKBQ",
+        "title": "O QUE É ESSE TAL DE NODE JS, E COMO INSTALAR O NODE NO WINDOWS. - PROGRAMADOR BR - EP 93",
+        "description": "Curso Dev Web https://programadorbr.com/p/dev-frontend/yt93 O node mudou a maneira como usamos Javascript, vamos ver como instalar esta ferramena no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oc71YSSA8Tk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oc71YSSA8Tk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oc71YSSA8Tk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programador BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-11T23:34:19Z"
+      }
+    }
+  ]
+}

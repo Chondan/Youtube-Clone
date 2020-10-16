@@ -3,8 +3,9 @@ import styles from './app.module.css';
 import youtube from './api/youtubeApi';
 import { SearchBar, VideoPlayer, VideoLists } from './components';
 
-const exampleResult = require('./api/exampleResult.json');
-const items = exampleResult.items;
+const exampleResult1 = require('./api/exampleResult.json');
+const exampleResult2 = require('./api/exampleResultNodeJS.json');
+const items = Math.random() > 0.5 ? exampleResult1.items : exampleResult2.items;
 
 function App() {
 	// Hooks
@@ -15,25 +16,31 @@ function App() {
 	// searching
 	useEffect(() => {
 		// ------ MOCKUP DATA
-		const sets = 40 / 5;
-		let newData = [];
-		Array(sets).fill(items).forEach(set => {
-			newData = [...newData, ...set];
-		});
-		setData(newData);
-		setSelectedVideo(newData[0]);
+		function mockupData() {
+			const sets = 40 / 5;
+			let newData = [];
+			Array(sets).fill(items).forEach(set => {
+				newData = [...newData, ...set];
+			});
+			setData(newData);
+			setSelectedVideo(newData[0]);
+		}
+		mockupData();
 
 		// ------ FETCHING DATA
-		// youtube.get("search", {
-		// 	params: {
-		// 		q: searchValue,
-		// 		maxResults: 50,
-		// 	}
-		// }).then((res) => {
-		// 	const data = res.data.items;
-		// 	setData(data);
-		// 	setSelectedVideo(data[0]);
-		// });
+		function fetchingData() {
+			youtube.get("search", {
+				params: {
+					q: searchValue,
+					maxResults: 50,
+				}
+			}).then((res) => {
+				console.log(res);
+				const data = res.data.items;
+				setData(data);
+				setSelectedVideo(data[0]);
+			});
+		}
 
 		return () => {
 			setData([]);
